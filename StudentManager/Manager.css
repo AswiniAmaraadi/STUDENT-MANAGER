@@ -1,0 +1,29 @@
+.container{
+    max-width:500px;
+    margin: auto;
+    background-color: #dde6f5;
+    padding: 30px;
+    border-radius: 10px;
+    margin-top:150px;
+
+}
+.head{
+    text-align: center;
+    margin-top: 20px;
+}
+.data{
+    padding: 20px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+
+}
+.But{
+    text-align: center;
+    background-color: skyblue;
+    margin-left:200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
